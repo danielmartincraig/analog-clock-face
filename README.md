@@ -1,6 +1,6 @@
 # analog-clock-face
 
-This is a very plain 24 hour clock made with SVG, re-frame, re-agent, react, and clojurescript.
+This is a very plain 24 hour clock made with SVG, re-frame, re-agent, react, and clojurescript.  Try it out at [analog-clock-face-site](https://danielmartincraig.github.io/analog-clock-face-site/) on github pages.
 
 ## Getting Started
 
